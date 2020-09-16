@@ -1,0 +1,215 @@
+﻿@model Client
+@{
+    ViewData["Title"] = "Index̣̣";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<section id="account-tab-home" class="account">
+    <ul class="nav nav-tabs nav-fill nav-justified">
+        <li class="nav-item">
+            <a class="nav-link active"
+               data-toggle="tab"
+               href="#tab-information-guide">
+                Thông tin tài khoản
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link"
+               data-toggle="tab"
+               href="#tab-repair-guide">
+                Sửa thông tin tài khoản
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link"
+               data-toggle="tab"
+               href="#tab-order-guide">
+                Đơn Hàng
+            </a>
+        </li>
+    </ul>
+    <div class="tab-content">
+        <div class="tab-pane fade show active" id="tab-information-guide">
+            <div class="profile-card">
+                <form asp-route="Client" class="form-box col-12">
+                    <div class="logo-box">
+                        <i class="fa fa-user-circle-o"></i>
+                    </div>
+
+                    @*@if(SessionUtility.AcountEmail != Model.Email)
+                    {
+                        <div  id="information" class="input-group col-12">
+                            <ul>
+                                <li>
+                                    <span>Email: </span>
+                                </li>
+                                <li>
+                                    <span>Họ tên: </span>
+
+                                </li>
+                                <li>
+                                    <span>Số điện thoại: </span>
+                                </li>
+
+                                <li>
+                                    <span>Địa Chỉ: </span>
+                                </li>
+                            </ul>
+
+                        </div>
+                    }
+                    else
+                    {*@
+                        <div id="information" class="input-group col-12">
+                            <ul>
+                                <li>
+                                    <span>Email: </span>@Model.Email
+                                </li>
+                                <li>
+                                    <span>Họ tên: </span>@Model.FullName
+
+                                </li>
+                                <li>
+                                    <span>Số điện thoại: </span>@Model.Mobi
+                                </li>
+
+                                <li>
+                                    <span>Địa Chỉ: </span> @Model.Address
+                                </li>
+                            </ul>
+
+                        </div>
+                    @* } *@
+                    <button type="submit" value="Đăng xuất" class="toggle-btn col-md-5 col-12">
+                        Đăng xuất
+                    </button>
+                    <button type="button" class="toggle-btn col-md-5 col-12">
+                        Đổi mật khẩu
+                    </button>
+                </form>
+            </div>
+        </div>
+
+        <div class="tab-pane fade" id="tab-repair-guide">
+            <div class="profile-card">
+                <div class="form-box col-12">
+                    <div class="logo-box">
+                        <i class="fa fa-user-circle-o"></i>
+                    </div>
+                    <div id="repair" class="input-group col-12">
+                        <input type="text"
+                               class="input-field"
+                               placeholder="Họ tên: Nguyễn Trọng Hiếu"
+                               title="Họ tên"
+                               required />
+                        <input type="text"
+                               class="input-field"
+                               placeholder="SĐT: 0969905304"
+                               title="Số điện thoại"
+                               required />
+                        <input type="email"
+                               class="input-field"
+                               placeholder="Email..."
+                               title="Vui lòng nhập email"
+                               required />
+                        <input type="text"
+                               class="input-field"
+                               placeholder="Địa chỉ: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et, quis."
+                               title="Chúng tôi sẽ giao hàng tới địa chỉ này"
+                               required />
+                        <div class="alert alert-success no-margin col-md-12">
+                            <button type="button" class="close" data-dismiss="alert">
+                                &times;
+                            </button>
+                            Cập nhật thành công.
+                        </div>
+                        <button type="button" class="toggle-btn col-md-5 col-12">
+                            Cập nhật
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-pane fade" id="tab-order-guide">
+            <div class="profile-card">
+                <div class="order-box">
+                    <h5>ĐƠN HÀNG: #10adda1, <span>đặt lúc - 13/03/2020, 11:20sa</span></h5>
+
+                    <div class="order">
+                        <div class="order-title">Chi tiết đơn hàng</div>
+                        <table class="table table-borderless">
+                            <thead>
+                                <tr>
+                                    <td class="item">Sản phẩm</td>
+                                    <td class="code">Mã sản phẩm</td>
+                                    <td class="price">Đơn giá</td>
+                                    <td class="qty">Số lượng</td>
+                                    <td class="total">Thành tiền</td>
+                                </tr>
+                            </thead>
+                            <tbody class="overflow-auto">
+                                <tr>
+                                    <td class="item">Sen bắp cải cỡ lớn 15-20cm</td>
+                                    <td class="code">2</td>
+                                    <td class="price">100,000đ</td>
+                                    <td class="qty">1</td>
+                                    <td class="total">100,000đ</td>
+                                </tr>
+                                <tr>
+                                    <td class="item">Sen bắp cải cỡ lớn 15-20cm</td>
+                                    <td class="code">2</td>
+                                    <td class="price">100,000đ</td>
+                                    <td class="qty">1</td>
+                                    <td class="total">100,000đ</td>
+                                </tr>
+                                <tr>
+                                    <td class="item">Sen bắp cải cỡ lớn 15-20cm</td>
+                                    <td class="code">2</td>
+                                    <td class="price">100,000đ</td>
+                                    <td class="qty">1</td>
+                                    <td class="total">100,000đ</td>
+                                </tr>
+                                <tr class="summary">
+                                    <td class="item"></td>
+                                    <td class="code"></td>
+                                    <td class="price"></td>
+                                    <td class="qty"><span>Giá sản phẩm:</span></td>
+                                    <td class="total"><span>100,000đ</span></td>
+                                </tr>
+                                <tr class="summary">
+                                    <td class="item"></td>
+                                    <td class="code"></td>
+                                    <td class="price"></td>
+                                    <td class="qty"><span>Giao hàng tận nơi:</span></td>
+                                    <td class="total"><span>25,000đ</span></td>
+                                </tr>
+                                <tr class="summary">
+                                    <td class="item"></td>
+                                    <td class="code"></td>
+                                    <td class="price"></td>
+                                    <td class="qty"><span>Tổng tiền:</span></td>
+                                    <td class="total"><span>125,000đ</span></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="buyer-profile">
+                        <div class="col-md-6 col-sm-12 col-12">
+                            <h5>Thông tin khách hàng</h5>
+                            <h6><span>tên: </span>Trọng Hiếu</h6>
+                            <h6><span>Số điện thoại: </span>0626151651</h6>
+                        </div>
+                        <div class="col-md-6 col-sm-12 col-12">
+                            <h5>Địa chỉ giao hàng/Ghi chú</h5>
+                            <h6><span>Địa chỉ giao hàng: </span>dsa fds fdsf dsf dsf dsfds fsd f sdfs df sdfsd fsd fsd fsd fsd fsd fsd fsd</h6>
+                            <h6><span>Ghi chú: </span>fdad fds fdsf sdf sda fsad fsdf sdaf sdaf asd fsad fasdf sda fsad fsad fsda fsad fsad fasd fasd fsad fsda fsad</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

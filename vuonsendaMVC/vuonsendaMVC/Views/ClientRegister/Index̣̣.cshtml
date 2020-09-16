@@ -1,0 +1,51 @@
+﻿@model Client
+@{
+    ViewData["Title"] = "Index̣̣";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="hero">
+    <div class="form-box">
+        <ul class="nav nav-tabs nav-fill nav-justified">
+            <li class="nav-item">
+                <a asp-route="login" class="nav-link"
+                   >
+                    Đăng nhập
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" data-toggle="tab">
+                    Đăng ký
+                </a>
+            </li>
+        </ul>
+        <div class="container">
+            <div class="tab-content">
+                <form asp-route="register" class="tab-pane fade show active" id="register">
+                    <input asp-for="@Model.Email" type="Email"
+                           class="input-field"
+                           placeholder="Email..." />
+                    <input asp-for="@Model.Password" type="password"
+                           class="input-field"
+                           placeholder="Nhập mật khẩu..." />
+                    <input asp-for="@Model.RePassword" type="password"
+                           class="input-field"
+                           placeholder="Nhập lại mật khẩu..." />
+                    <input asp-for="@Model.FullName" type="text"
+                           class="input-field"
+                           placeholder="Họ Và Tên..." />
+                    <input asp-for="@Model.Address" type="text"
+                           class="input-field"
+                           placeholder="Nhập Địa Chỉ..." />
+
+                    <message type="@ViewBag.ContactMessageType">
+                        @ViewBag.ContactMessage
+                    </message>
+
+                    <input type="submit" value="Đăng ký" class="submit-btn" />
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/jquery.smartmenus.bootstrap-4.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Comfortaa|Lemonada&display=swap"
+          rel="stylesheet" />
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link href="~/css/animate.min.css" rel="stylesheet" />
+    <link href="~/css/swiper.min.css" rel="stylesheet" />
+    <link href="~/css/Style.css" rel="stylesheet" />
+
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="navbar navbar-expand-md">
+                <div class="container navbar-light bg-light ">
+                    <a class="navbar-branch" title="Vườn sen đá" asp-route="home">
+                        <img src="~/FileUpload/image/logo.jpg" height="60" />
+                    </a>
+                    <button class="navbar-toggler"
+                            type="button"
+                            data-toggle="collapse"
+                            data-target="#navbarResponsive">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarResponsive">
+                        <ul class="navbar-nav ml-auto">
+                                <li class="nav-item">
+                                    <vc:vc-client-header />
+                                </li>
+                                <li>
+
+                                    <span runat="server" id="span_Count" class="cart-number">0</span>
+                                    <a class="icion fa fa-cart-plus" href="ProductShoppingCart.aspx"></a>
+
+                                    <div class="cart-view">
+                                        <div class="overflow-auto">
+                                            <div runat="server" id="div_Product">
+                                                <asp:Repeater ID="Repeater_Main" runat="server">
+                                                    <ItemTemplate>
+                                                        <div class="row cart-view-info">
+                                                            <div class="col-md-3 cart-view-img">
+                                                                <a target="_blank" href="#" class="cart-view-info-a">
+                                                                    <img src='<%# Eval("Avatar") %>' />
+                                                                </a>
+                                                            </div>
+                                                            <div class="col-md-8 cart-view-title">
+                                                                <a target="_blank" href="#" class="cart-view-info-a">
+                                                                    <span>Sen Bánh Bao Xanh 4-5cm (Chậu Nhựa)</span>
+                                                                </a>
+                                                                <div class="row cart-view-total">
+                                                                    <div class="col-md-4 cart-view-quantity">
+                                                                        x <span>1</span>
+                                                                    </div>
+                                                                    <div class="col-md-8 cart-view-price">
+                                                                        = <span>15000 Đ</span>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            @*<div class="col-md-1 cart-view-delete">
+                                                                <asp:LinkButton ID="LinkButton_Remove" OnClientClick="return cofirm('Bạn Có Muốn Xóa Không?')"
+                                                                                CommandArgument='<%# Eval("ID") %>' OnClick="LinkButton_Remove_Click" class="button-delete" Text="x" runat="server" />
+                                                            </div>*@
+                                                        </div>
+                                                    </ItemTemplate>
+                                                </asp:Repeater>
+                                            </div>
+                                            <div runat="server" id="div_NoProduct">
+                                                <span>Hiện Chưa Có Sản Phẩm Nào Được Thêm Vào</span>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="row cart-view-text">
+                                            <div class="col-md-6 cart-view-tt"><span>Tổng Tiền:</span></div>
+                                            <div class="col-md-6 cart-view-tt-price"><span runat="server" id="span_Amount">0</span>Đ</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-5 linktocart"><a href="ProductShoppingCart.aspx">Xem Giỏ Hàng</a></div>
+                                            <div class="col-md-5 linktocheckout"><a href="ProductCheckouts.aspx">Thanh Toán</a></div>
+                                        </div>
+                                    </div>
+
+                                </li>
+                            </ul>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <vc:vc-menu />
+
+        @RenderBody()
+
+    </main>
+
+    <vc:vc-footer />
+</body>
+</html>

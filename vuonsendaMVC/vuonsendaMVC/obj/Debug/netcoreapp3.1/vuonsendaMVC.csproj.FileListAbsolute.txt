@@ -1,0 +1,347 @@
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\appsettings.json
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.exe
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.deps.json
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.runtimeconfig.json
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.runtimeconfig.dev.json
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.dll
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.pdb
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.Views.dll
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.Views.pdb
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.csprojAssemblyReference.cache
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.csproj.CoreCompileInputs.cache
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorAssemblyInfo.cache
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorAssemblyInfo.cs
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.AssemblyInfoInputs.cache
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.AssemblyInfo.cs
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.TagHelpers.input.cache
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.TagHelpers.output.cache
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorCoreGenerate.cache
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorTargetAssemblyInfo.cache
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorTargetAssemblyInfo.cs
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.Views.pdb
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\staticwebassets\vuonsendaMVC.StaticWebAssets.Manifest.cache
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\staticwebassets\vuonsendaMVC.StaticWebAssets.xml
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.dll
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.pdb
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.genruntimeconfig.cache
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.csproj.CopyComplete
+E:\học tập\VuonSenDaMVC\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.exe
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.deps.json
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.runtimeconfig.json
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.runtimeconfig.dev.json
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.pdb
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.Views.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.Views.pdb
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.csprojAssemblyReference.cache
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.AssemblyInfoInputs.cache
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.AssemblyInfo.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorAssemblyInfo.cache
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorAssemblyInfo.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.TagHelpers.input.cache
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.TagHelpers.output.cache
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorCoreGenerate.cache
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorTargetAssemblyInfo.cache
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorTargetAssemblyInfo.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.Views.pdb
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\staticwebassets\vuonsendaMVC.StaticWebAssets.Manifest.cache
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\staticwebassets\vuonsendaMVC.StaticWebAssets.xml
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.pdb
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.genruntimeconfig.cache
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.csproj.CopyComplete
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index̣̣.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index̣̣.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Tutorial\Index̣̣.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Article\Index̣̣.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Article\Detail.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index̣̣.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcMenu\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcFooter\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcService\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\efpt.config.json
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.csproj.CoreCompileInputs.cache
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\học tập\Khóa MVC CORE 3.1\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcPagging\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\efpt.config.json
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.exe
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.deps.json
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.runtimeconfig.json
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.runtimeconfig.dev.json
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.pdb
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.Views.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\vuonsendaMVC.Views.pdb
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.csprojAssemblyReference.cache
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.AssemblyInfoInputs.cache
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.AssemblyInfo.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorAssemblyInfo.cache
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorAssemblyInfo.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.TagHelpers.input.cache
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.TagHelpers.output.cache
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorCoreGenerate.cache
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Article\Detail.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Article\Index̣̣.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index̣̣.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index̣̣.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index̣̣.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcFooter\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcMenu\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcPagging\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Tutorial\Index̣̣.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorTargetAssemblyInfo.cache
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.RazorTargetAssemblyInfo.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.Views.pdb
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.csproj.CopyComplete
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\staticwebassets\vuonsendaMVC.StaticWebAssets.Manifest.cache
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\staticwebassets\vuonsendaMVC.StaticWebAssets.xml
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.dll
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.pdb
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.genruntimeconfig.cache
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcProductRelated\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcArticleRelated\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcHomeProduct\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcHomeService\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Client\Index̣̣.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\ClientLogin\Index̣̣.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\ClientRegister\Index̣̣.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcClientHeader\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.csproj.CoreCompileInputs.cache
+D:\học tập\Khóa MVC CORE 3.1\github\vuonsendaMVC\vuonsendaMVC\obj\Debug\netcoreapp3.1\vuonsendaMVC.MvcApplicationPartsAssemblyInfo.cache

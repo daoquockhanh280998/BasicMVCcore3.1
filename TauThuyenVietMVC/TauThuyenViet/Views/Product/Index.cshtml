@@ -1,0 +1,57 @@
+﻿@model ListDatasource
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section id="product-list">
+    <ul class="nav nav-tabs nav-justified">
+        <li class="nav-item">
+            <a class="nav-link active" href="product.html">
+                <img class="img-fluid" src="/Content/images/product-category-tab/seadoo.png" />
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="product.html">
+                <img class="img-fluid" src="/Content/images/product-category-tab/offroad.png" />
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="product.html">
+                <img class="img-fluid" src="/Content/images/product-category-tab/spyder.png" />
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="product.html">
+                <img class="img-fluid" src="/Content/images/product-category-tab/accessories.png" />
+            </a>
+        </li>
+    </ul>
+    <div class="container-fluid">
+        <div class="row mansory">
+            @foreach (var item in Model.Data as IEnumerable<Product>)
+            {
+                <div class="item">
+                    <a asp-route="Product-Detail" asp-route-id="@item.ProductID" asp-route-title="@item.Title.ToUrlFormat()" >
+                        <img class="img-fluid" src="@item.ImageList.SplitImages()" />
+                        <span>
+                            @item.Title
+                        </span>
+                    </a>
+                </div>
+            }
+
+        </div>
+    </div>
+
+    @*@await Component.InvokeAsync(nameof(vcPagging), new { totals = 27
+                                                         ,pageSize = 3
+                                                         , page = 2
+                                                         , url = "/sanpham/{0}/sanphammoi"
+                                                         , maxPage = 6 })*@
+
+    <vc:vc-pagging totals="@Model.Total" page-size="@Model.PageSize" page="@Model.Page" url="@Model.Url" max-page="@Model.MaxPage" />
+
+   <div class="clearfix pt-3"></div>
+</section>
+

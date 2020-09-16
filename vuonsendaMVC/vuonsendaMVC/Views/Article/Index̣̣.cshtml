@@ -1,0 +1,38 @@
+﻿@model ListDatasource
+@{
+    ViewData["Title"] = "Index̣̣";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <div class="care-list">
+        <div class="container">
+            <h2>Hướng dẫn chăm sóc <span>sen đá</span></h2>
+            @foreach (var item in Model.Data as IEnumerable<Article>)
+            {
+                <div class="news-content" data-aos="fade-left">
+                    <img src="@item.Avatar" alt="" />
+                    <div class="cap">
+                        <h4>
+                            <a asp-route="article-detail" asp-route-id="@item.ArticleID" asp-route-title="@item.Title.ToUrlFormat()">
+                                @item.Title
+                            </a>
+                        </h4>
+                        <div class="body-content">
+                            <div>
+                                <i class="fa fa-calendar"></i>
+                                <time pubdate datetime="2019-09-22">@item.CreateTime</time>
+                            </div>
+                            <div>
+                                <i class="fa fa-file-text-o"></i>
+                                <a href="CareDetail.html"> Hướng dẫn chăm sóc sen đá</a>
+                            </div>
+                        </div>
+                        <a asp-route="article-detail" asp-route-id="@item.ArticleID" asp-route-title="@item.Title.ToUrlFormat()" class="btn">Xem tiếp</a>
+                    </div>
+                </div>
+            }
+
+        <vc:vc-pagging totals="@Model.Totals" pagesize="@Model.PageSize" page="@Model.Page" url="@Model.Url" max-page="@Model.MaxPage" />
+        </div>
+    </div>
+

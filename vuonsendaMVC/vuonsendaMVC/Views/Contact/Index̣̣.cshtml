@@ -1,0 +1,85 @@
+﻿@model Contact
+@{
+    ViewData["Title"] = "Index̣̣";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="contact">
+    <div class="container">
+        <div class="row">
+            <div class="contact-left col-md-8">
+                <div class="titleHeader clearfix">
+                    <h2>địa chỉ</h2>
+                </div>
+                <div class="google-map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.6248925660666!2d106.66705853400438!3d10.991653936422155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174d1121364badb%3A0xbaede6b51906c225!2zVsaw4budbiBzZW4gxJHDoSBUaOG7pyBE4bqndSBN4buZdA!5e0!3m2!1svi!2s!4v1582091042632!5m2!1svi!2s"></iframe>
+                </div>
+                <form class="contact-us-form" asp-route="contact">
+                    <div class="titleHeader clearfix">
+                        <h2>Gửi Thư Trực Tuyến</h2>
+                        <p>@ViewBag.Message</p>
+                    </div>
+                    <div>
+                        <div class="form-row">
+                            <div class="col">
+                                <input asp-for="@Model.FullName" type="text"
+                                       class="form-control"
+                                       placeholder="Họ tên..." />
+                            </div>
+                            <div class="col">
+                                <input asp-for="@Model.Email" type="email"
+                                       class="form-control"
+                                       placeholder="Email..." />
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="col">
+                                <input asp-for="@Model.Mobi" type="text"
+                                       class="form-control"
+                                       placeholder="SĐT..." />
+                            </div>
+                            <div class="col">
+                                <input asp-for="@Model.topic" type="text"
+                                       class="form-control"
+                                       placeholder="Chủ đề..." />
+                            </div>
+                        </div>
+                        <div class="controls">
+                            <textarea asp-for="@Model.Content" class="col-md-12"
+                                      placeholder="Nội dung liên hệ..."></textarea>
+                        </div>
+                        <div class="controls">
+                            <message type="@ViewBag.ContactMessageType">
+                                @ViewBag.ContactMessage
+                                
+                            </message>
+                            <input type="submit" value="Gửi thư" class="btn btn-success pull-right margin-top10px" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="contact-right col-md-4">
+                <div class="titleHeader clearfix">
+                    <h2>Thông Tin Liên Hệ</h2>
+                </div>
+                <address>
+                    <strong><i class="fa fa-thumb-tack"></i>Địa chỉ liên hệ:</strong><br />
+                    Thuận Giao, Thuận An, T.Bình Dương
+                </address>
+                <address>
+                    <strong><i class="fa fa-phone"></i>Điện thoại:</strong><br />
+                    <span title="Phone">Nguyễn Trọng Hiếu:</span>
+                    0969905304<br />
+                    <span title="Phone">Nguyễn Trọng Hiếu:</span>
+                    0900000000<br />
+                </address>
+                <address>
+                    <strong><i class="fa fa-envelope-square"></i>EMail:</strong><br />
+                    <span title="Email">Nguyễn Trọng Hiếu:</span>
+                    <a href="#">tronghieu1798@gmail.com</a><br />
+                </address>
+            </div>
+        </div>
+    </div>
+</div>
+

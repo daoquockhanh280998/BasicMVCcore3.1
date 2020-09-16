@@ -1,0 +1,82 @@
+﻿@model IEnumerable<ProductMainCategory>
+<nav class="navbar navbar-expand-lg navbar-light sticky-top">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link active" asp-route="home">
+                        TRANG CHỦ
+                    </a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" asp-route="product-list">
+                        SẢN PHẨM
+                        <i class="fa fa-caret-down"></i>
+                    </a>
+                    <ul class="dropdown-menu">
+                        @foreach (var item in Model)
+                        {
+                            <li class="dropdown">
+                                <a class="cod dropdown-item dropdown-toggle"
+                                   asp-route="product-list-main" asp-route-mid="@item.ProductMainCategoryID"
+                                   asp-route-title="@item.Title.ToUrlFormat()">
+                                    @item.Title
+                                    <i class="fa fa-caret-right"></i>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    @foreach (var subItem in item.ProductCategory)
+                                    {
+                                        <li>
+                                            <a class="dropdown-item" 
+                                               asp-route="product-list-sub" 
+                                               asp-route-mid="@subItem.ProductMainCategoryID"
+                                               asp-route-cid="@subItem.ProductCategoryID"
+                                               asp-route-title="@subItem.Title.ToUrlFormat()">
+                                                @subItem.Title
+                                            </a>
+                                        </li>
+                                    }
+
+                                </ul>
+                            </li>
+                        }
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link" asp-route="tutorial">
+                        HƯỚNG DẪN MUA HÀNG
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-route="article-list">
+                        CHĂM SÓC
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-route="contact">
+                        LIÊN HỆ
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="col-md-4 col-10 search">
+            <div class="input-group input-group-sm">
+                <input type="text"
+                       class="form-control"
+                       placeholder="Tìm kiếm..."
+                       aria-label="Recipient's username"
+                       aria-describedby="basic-addon2" />
+                <div class="input-group-append">
+                    <button class="btn btn-light" type="button">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>

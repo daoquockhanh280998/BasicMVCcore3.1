@@ -1,0 +1,34 @@
+﻿@model Client
+<div class="registration-login">
+
+
+    <span class="cart-phone">
+        <b><i class="fa fa-phone"></i>0354 249 595 |</b>
+        @if (SessionUtility.CLIENT_EMAIL == null)
+        {
+            <a asp-route="login">Đăng Nhập | Đăng Kí </a>
+        }
+        else
+        {
+            <a asp-route="Client">Tài Khoản Của Bạn </a>
+            <input type="submit" value="Thoát" class="account-out" />
+        }
+
+    </span>
+
+
+
+    @*<span class="cart-phone">
+            <b><i class="fa fa-phone"></i>0354 249 595 |</b>
+            <a href="~/ClientInfo.aspx" runat="server" id="a_name"> Tài Khoản Của Bạn</a>,
+            <asp:LinkButton class="account-out" Text="Thoát" ID="LinkButton_Logout" OnClick="LinkButton_Logout_Click" runat="server" />
+        </span>*@
+
+
+
+
+
+    <div class="header-line">
+        <span>Miễn Phí Ship Khi <a>ĐƠN HÀNG TRÊN 300K</a></span>
+    </div>
+</div>

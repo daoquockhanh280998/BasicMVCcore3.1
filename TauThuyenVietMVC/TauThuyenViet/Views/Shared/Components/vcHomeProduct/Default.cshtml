@@ -1,0 +1,65 @@
+﻿@model IEnumerable<ProductMainCategory>
+
+<section id="product-home">
+    @foreach (var item in Model)
+    {
+        <div class="wrapper">
+            <a class="avatar" asp-route="Product-List-main"
+               asp-route-mid="@item.ProductMainCategoryID"
+               asp-route-title="@item.Title">
+                <img class="img-fluid" src="@item.Avatar" />
+                <img class="overlay" src="@item.Thumb" />
+            </a>
+            <div class="full">
+                <!-- Slider main container -->
+                <div class="swiper-container">
+                    <!-- Additional required wrapper -->
+                    <div class="swiper-wrapper">
+                        <!-- Slides -->
+                        @foreach (var subItem in item.ProductCategory)
+                        {
+                            foreach (var subSubItem in subItem.Product.OrderByDescending(x=>x.CreateTime).Take(6))
+                            {
+                                <div class="swiper-slide">
+                                    <a asp-route="Product-Detail" asp-route-id="@subSubItem.ProductID" asp-route-title="@subSubItem.Title.ToUrlFormat()">
+                                        <img src="@subSubItem.ImageList.SplitImages()" />
+                                        <span>@subSubItem.Title</span>
+                                    </a>
+                                </div>
+                            }
+                        }
+
+                    </div>
+                    <!-- If we need pagination -->
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+            <div class="thumb">
+                <!-- Slider main container -->
+                <div class="swiper-container">
+                    <!-- Additional required wrapper -->
+                    <div class="swiper-wrapper">
+                        <!-- Slides -->
+                        @foreach (var subItem in item.ProductCategory)
+                        {
+                            foreach (var subSubItem in subItem.Product.OrderByDescending(x => x.CreateTime).Take(6))
+                            {
+                                <div class="swiper-slide">
+                                    <a asp-route="Product-Detail" asp-route-id="@subSubItem.ProductID" asp-route-title="@subSubItem.Title.ToUrlFormat()">
+                                        <img src="@subSubItem.ImageList.SplitImages()" />
+                                    </a>
+                                </div>
+                            }
+                        }
+                    </div>
+
+                    <!-- If we need navigation buttons -->
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
+                </div>
+            </div>
+        </div>
+    }
+
+
+</section>

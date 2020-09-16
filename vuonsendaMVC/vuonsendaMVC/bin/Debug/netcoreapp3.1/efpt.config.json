@@ -1,0 +1,95 @@
+﻿{
+   "ContextClassName": "DBContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "vuonsendaMVC",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Account]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[AccountCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Article]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ArticleCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ArticleMainCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Client]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ClientCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Contact]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ContactCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Order]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[OrderDetail]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Picture]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PictureCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PictureMainCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Product]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ProductCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ProductMainCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[TB_ThongKe]"
+      }
+   ],
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": true,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}

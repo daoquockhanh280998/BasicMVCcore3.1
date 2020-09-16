@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+
+    <link rel="shortcut icon" href="~/Scripts/favicon.ico" />
+    <title>@ViewData["Title"] - Tàu Thuyền Việt</title>
+    <link href="~/Content/bundle.min.css" rel="stylesheet" />
+    <link href="~/Content/style.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/animations.css" rel="stylesheet" />
+    <link href="~/Content/easyzoom.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.css" rel="stylesheet" />
+    <link href="~/Content/jquery.fancybox.css" rel="stylesheet" />
+    <link href="~/Content/jquery.smartmenus.bootstrap-4.css" rel="stylesheet" />
+    <link href="~/Content/swiper.css" rel="stylesheet" />
+</head>
+<body>
+    @*@await Component.InvokeAsync(nameof(vcMenu))*@
+    <vc:vc-menu />
+    <main>
+       @RenderBody()
+    </main>
+    <vc:vc-footer />
+    <section id="script">
+        <script src="~/Scripts/bundle.min.js"></script>
+    </section>
+</body>
+</html>

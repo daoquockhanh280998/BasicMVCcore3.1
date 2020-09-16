@@ -1,0 +1,49 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <section id="product-detail">
+        <aside class="avatar">
+            <img class="img-fluid" src="@Model.Avatar" />
+        </aside>
+        <aside class="info">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6">
+                        <h1>
+                            @Model.Title
+                        </h1>
+                        <div>
+                            @Html.Raw(Model.Content)
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="product-imagelist-swiper">
+                            <div class="swiper-container">
+                                <div class="swiper-wrapper">
+                                    @foreach (var item in Model.ImageList.Trim().Split("\n", StringSplitOptions.RemoveEmptyEntries))
+                                    {
+                                        <div class="swiper-slide">
+                                            <a href="@item" data-fancybox="gallery">
+                                                <img class="img-fluid" src="@item" />
+                                            </a>
+                                        </div>
+                                    }
+
+                                </div>
+                                <div class="swiper-pagination"></div>
+                                <div class="swiper-button-prev"></div>
+                                <div class="swiper-button-next"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <vc:vc-product-related id="@Model.ProductID" cat-id="@Model.ProductCategoryID" />
+        <vc:vc-product-related id="@null" cat-id="@Model.ProductCategoryID" />
+    </section>
+

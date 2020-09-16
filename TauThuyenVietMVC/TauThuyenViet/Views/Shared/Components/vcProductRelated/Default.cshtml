@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Product>
+
+<aside>
+    <h2 class="my-2">
+        @*@ViewBagUtility.ProductRelatedHeading*@
+        @ViewData[ViewDataUtility.PRODUCT_RELATED_HEADING]
+    </h2>
+    <div class="product-other-swiper">
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                @foreach (var item in Model)
+                {
+                    <div class="swiper-slide">
+                        <a asp-route="Product-Detail" asp-route-id="@item.ProductID" asp-route-title="@item.Title.ToUrlFormat()">
+                            <img class="img-fluid" src="@item.ImageList.SplitImages()" />
+                            <span>@item.Title</span>
+                        </a>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</aside>

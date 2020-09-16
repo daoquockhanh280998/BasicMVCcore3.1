@@ -1,0 +1,269 @@
+﻿@model ListDatasource
+
+@{
+    ViewData["Title"] = "Index̣̣";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="product-list">
+    <div class="container">
+        <div class="sort-collection">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <h3>
+                        Sử Dụng ViewBag
+                    </h3>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="browse-tags">
+                        <span>Sắp xếp theo:</span>
+                        <span class="custom-dropdown custom-dropdown--white">
+                            <select class="sort-by custom-dropdown__select custom-dropdown__select--white">
+                                <option value="manual">Sản phẩm nổi bật</option>
+                                <option value="price-ascending">Giá: Tăng dần</option>
+                                <option value="price-descending">Giá: Giảm dần</option>
+                                <option value="price-ascending">Tên: A-Z</option>
+                                <option value="price-descending">Tên: Z-A</option>
+                                <option value="price-ascending">Cũ nhất</option>
+                                <option value="price-descending">Mới nhất</option>
+                            </select>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <ul data-aos="fade-right">
+
+                @foreach (var item in Model.Data as IEnumerable<Product>)
+                {
+                    <li class="col-md-3 col-sm-6 col-12">
+                        <div class="thumbnail ">
+                            <div class="carousel-inner">
+                                <a asp-route="product-detail" asp-route-id="@item.ProductID" asp-route-title="@item.Title.ToUrlFormat()">
+                                    <img src="@item.Avatar" />
+                                </a>
+                                <span class=" product-sale"> </span>
+                            </div>
+                        </div>
+                        <div class="thumbSetting">
+                            <div class="thumbTitle">
+                                <a asp-route="product-detail" asp-route-id="@item.ProductID" asp-route-title="@item.Title" class="invarseColor">
+                                    @item.Title
+                                </a>
+                            </div>
+                        </div>
+                        <div class="thumbPrice">
+                            <span>
+                                @item.Price
+                                <span class="strike-through"></span>
+                            </span>
+                        </div>
+                        <div class="thumbButtons">
+                            <button type="button" class="btn btn-primary btn-small" data-toggle="modal" data-target=".bd-example-modal-xl">
+                                <i class="fa fa-shopping-cart"></i>
+                                Thêm vào giỏ hàng
+                            </button>
+                            <div class="modal fade bd-example-modal-xl" tabindex="-1" role="dialog" aria-labelledby="myExtraLargeModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-xl" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="exampleModalScrollableTitle">Bạn có <span>1</span> sản phẩm trong giỏ hàng</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <table class="table table-striped">
+                                                <thead>
+                                                    <tr>
+                                                        <th class="image"></th>
+                                                        <th class="title">Tên sản phẩm</th>
+                                                        <th class="qty">Số lượng</th>
+                                                        <th class="price">Giá tiền</th>
+                                                        <th class="remove"></th>
+                                                    </tr>
+                                                </thead>
+                                            </table>
+                                            <div class="scrollable">
+                                                <table class="table table-striped">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="image">
+                                                                <a href="ProductDetail.html">
+                                                                    <img src="~/FileUpload/image/sendacolon/SenBanhBaoXanhCoDai.jpg" alt="">
+                                                                </a>
+                                                            </td>
+                                                            <td class="title">
+                                                                <a href="ProductDetail.html">
+                                                                    Sen bắp cải cỡ lớn 15-12cm
+                                                                </a>
+                                                            </td>
+                                                            <td class="qty">
+                                                                <div class="qtys">
+                                                                    <button class="left-qty"><i class="fa fa-angle-left"></i></button>
+                                                                    <input value="1" class="tc item-quantity">
+                                                                    <button class="right-qty"><i class="fa fa-angle-right"></i></button>
+                                                                </div>
+                                                            </td>
+                                                            <td class="price">
+                                                                <div>
+                                                                    <span class="strike-through">180,000đ</span>
+                                                                </div>
+                                                                <div>
+                                                                    <span>150,000đ</span>
+                                                                </div>
+                                                            </td>
+                                                            <td class="remove">
+                                                                <a href="#">
+                                                                    <i class="fa fa-times"></i>
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="image">
+                                                                <a href="ProductDetail.html">
+                                                                    <img src="~/FileUpload/image/sendacolon/SenBanhBaoXanhCoDai.jpg" alt="">
+                                                                </a>
+                                                            </td>
+                                                            <td class="title">
+                                                                <a href="ProductDetail.html">
+                                                                    Sen bắp cải cỡ lớn 15-12cm
+                                                                </a>
+                                                            </td>
+                                                            <td class="qty">
+                                                                <div class="qtys">
+                                                                    <button class="left-qty"><i class="fa fa-angle-left"></i></button>
+                                                                    <input value="1" class="tc item-quantity">
+                                                                    <button class="right-qty"><i class="fa fa-angle-right"></i></button>
+                                                                </div>
+                                                            </td>
+                                                            <td class="price">
+                                                                <div>
+                                                                    <span class="strike-through">180,000đ</span>
+                                                                </div>
+                                                                <div>
+                                                                    <span>150,000đ</span>
+                                                                </div>
+                                                            </td>
+                                                            <td class="remove">
+                                                                <a href="#">
+                                                                    <i class="fa fa-times"></i>
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="image">
+                                                                <a href="ProductDetail.html">
+                                                                    <img src="~/FileUpload/image/sendacolon/SenBanhBaoXanhCoDai.jpg" alt="">
+                                                                </a>
+                                                            </td>
+                                                            <td class="title">
+                                                                <a href="ProductDetail.html">
+                                                                    Sen bắp cải cỡ lớn 15-12cm
+                                                                </a>
+                                                            </td>
+                                                            <td class="qty">
+                                                                <div class="qtys">
+                                                                    <button class="left-qty"><i class="fa fa-angle-left"></i></button>
+                                                                    <input value="1" class="tc item-quantity">
+                                                                    <button class="right-qty"><i class="fa fa-angle-right"></i></button>
+                                                                </div>
+                                                            </td>
+                                                            <td class="price">
+                                                                <div>
+                                                                    <span class="strike-through">180,000đ</span>
+                                                                </div>
+                                                                <div>
+                                                                    <span>150,000đ</span>
+                                                                </div>
+                                                            </td>
+                                                            <td class="remove">
+                                                                <a href="#">
+                                                                    <i class="fa fa-times"></i>
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="image">
+                                                                <a href="ProductDetail.html">
+                                                                    <img src="~/FileUpload/image/sendacolon/SenBanhBaoXanhCoDai.jpg" alt="">
+                                                                </a>
+                                                            </td>
+                                                            <td class="title">
+                                                                <a href="ProductDetail.html">
+                                                                    Sen bắp cải cỡ lớn 15-12cm
+                                                                </a>
+                                                            </td>
+                                                            <td class="qty">
+                                                                <div class="qtys">
+                                                                    <button class="left-qty"><i class="fa fa-angle-left"></i></button>
+                                                                    <input value="1" class="tc item-quantity">
+                                                                    <button class="right-qty"><i class="fa fa-angle-right"></i></button>
+                                                                </div>
+                                                            </td>
+                                                            <td class="price">
+                                                                <div>
+                                                                    <span class="strike-through">180,000đ</span>
+                                                                </div>
+                                                                <div>
+                                                                    <span>150,000đ</span>
+                                                                </div>
+                                                            </td>
+                                                            <td class="remove">
+                                                                <a href="#">
+                                                                    <i class="fa fa-times"></i>
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <div class="modal-note">
+                                                        <textarea placeholder="Viết ghi chú" id="note" name="note" rows="5"></textarea>
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="total-price-modal">
+                                                        Tổng cộng : <span class="item-total">180,000₫</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="row" style="margin-top:10px;">
+                                                <div class="col-lg-6">
+                                                    <div class="comeback">
+                                                        <a href="/collections/all">
+                                                            <i class="fa fa-caret-left mr10"></i>Tiếp tục mua hàng
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6 text-right">
+                                                    <div class="buttons btn-modal-cart">
+                                                        <button type="submit" class="button-default" id="checkout" name="checkout">
+                                                            Đặt hàng
+                                                        </button>
+                                                    </div>
+
+                                                    <div class="buttons btn-modal-cart">
+                                                        <button type="submit" class="button-default" id="update-cart-modal" name="">
+                                                            Cập nhật
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+</div>
+
+<vc:vc-pagging totals="@Model.Totals" pagesize="@Model.PageSize" page="@Model.Page" url="@Model.Url" max-page="@Model.MaxPage" />
+

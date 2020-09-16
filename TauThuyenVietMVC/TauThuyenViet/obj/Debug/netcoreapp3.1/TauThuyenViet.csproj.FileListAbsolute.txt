@@ -1,0 +1,456 @@
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.exe
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.deps.json
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.runtimeconfig.json
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.runtimeconfig.dev.json
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.pdb
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.Views.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.Views.pdb
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.csprojAssemblyReference.cache
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorAssemblyInfo.cache
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorAssemblyInfo.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.AssemblyInfoInputs.cache
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.AssemblyInfo.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.TagHelpers.input.cache
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.TagHelpers.output.cache
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorCoreGenerate.cache
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorTargetAssemblyInfo.cache
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorTargetAssemblyInfo.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.Views.pdb
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\staticwebassets\TauThuyenViet.StaticWebAssets.Manifest.cache
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\staticwebassets\TauThuyenViet.StaticWebAssets.xml
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.pdb
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.genruntimeconfig.cache
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.csproj.CopyComplete
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Article\Index.cshtml.g.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Article\Detail.cshtml.g.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcMenu\Default.cshtml.g.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcFooter\Default.cshtml.g.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcHomeService\Default.cshtml.g.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcProductHome\Default.cshtml.g.cs
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\efpt.config.json
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.csproj.CoreCompileInputs.cache
+D:\Làm Việc\github\mvc-TauThuyenViet\TauThuyenViet\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.MvcApplicationPartsAssemblyInfo.cache
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\appsettings.json
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\efpt.config.json
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.exe
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.deps.json
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.runtimeconfig.json
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.runtimeconfig.dev.json
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.pdb
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.Views.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.Views.pdb
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.csprojAssemblyReference.cache
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.csproj.CoreCompileInputs.cache
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.MvcApplicationPartsAssemblyInfo.cache
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorAssemblyInfo.cache
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorAssemblyInfo.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.AssemblyInfoInputs.cache
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.AssemblyInfo.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.TagHelpers.input.cache
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.TagHelpers.output.cache
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorCoreGenerate.cache
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Article\Detail.cshtml.g.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Article\Index.cshtml.g.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcFooter\Default.cshtml.g.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcHomeService\Default.cshtml.g.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcMenu\Default.cshtml.g.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcPagging\Default.cshtml.g.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorTargetAssemblyInfo.cache
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorTargetAssemblyInfo.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.Views.pdb
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.csproj.CopyComplete
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\staticwebassets\TauThuyenViet.StaticWebAssets.Manifest.cache
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\staticwebassets\TauThuyenViet.StaticWebAssets.xml
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.dll
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.pdb
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.genruntimeconfig.cache
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcProductRelated\Default.cshtml.g.cs
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcArticleRelated\Default.cshtml.g.cs
+<<<<<<< HEAD
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\appsettings.json
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\efpt.config.json
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.exe
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.deps.json
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.runtimeconfig.json
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.runtimeconfig.dev.json
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.pdb
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.Views.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\TauThuyenViet.Views.pdb
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.csprojAssemblyReference.cache
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.AssemblyInfoInputs.cache
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.AssemblyInfo.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.csproj.CoreCompileInputs.cache
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.MvcApplicationPartsAssemblyInfo.cache
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorAssemblyInfo.cache
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorAssemblyInfo.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.TagHelpers.input.cache
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.TagHelpers.output.cache
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorCoreGenerate.cache
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Article\Detail.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Article\Index.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcArticleRelated\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcFooter\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcHomeService\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcMenu\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcPagging\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcProductHome\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcProductRelated\Default.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorTargetAssemblyInfo.cache
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.RazorTargetAssemblyInfo.cs
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.Views.pdb
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.csproj.CopyComplete
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\staticwebassets\TauThuyenViet.StaticWebAssets.Manifest.cache
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\staticwebassets\TauThuyenViet.StaticWebAssets.xml
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.dll
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.pdb
+D:\học tập\Khóa MVC CORE 3.1\github\TauThuyenVietMVC\TauThuyenViet\obj\Debug\netcoreapp3.1\TauThuyenViet.genruntimeconfig.cache
+=======
+E:\học tập\Khóa MVC Core\TauThuyenViet\MVC-CORE-master\TauThuyenViet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\vcHomeProduct\Default.cshtml.g.cs
+>>>>>>> 9ba355186381e0794e446fa850ebda8a8e4531f6

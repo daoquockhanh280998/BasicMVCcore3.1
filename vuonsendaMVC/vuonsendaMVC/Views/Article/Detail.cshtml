@@ -1,0 +1,16 @@
+﻿@model Article
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="care-detail">
+    <div class="container">
+        @Html.Raw(Model.Content)
+
+    </div>
+</div>
+<vc:vc-article-related id="@Model.ArticleID" cat-id="@Model.ArticleCategoryID" />
+<vc:vc-article-related id="@null" cat-id="@Model.ArticleCategoryID" />
+
+
